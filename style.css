@@ -1,0 +1,29 @@
+body {
+    background-color: rgba(51, 169, 248, 0.603);
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    table-layout: fixed;
+    overflow: scroll;
+}
+
+th,
+td {
+    text-align: center;
+    padding: 5px;
+    background-color: rgba(250, 250, 250, 0.836);
+    font-size: 20px;
+}
+
+th {
+    background-color: rgba(4, 161, 252, 0.76);
+    color: white;
+    font-weight: 900;
+}
+
+td {
+    font-weight: 500;
+}
